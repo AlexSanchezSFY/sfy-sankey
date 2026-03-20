@@ -4,10 +4,10 @@
   "description": "D3 sankey with circular links (Soft For You's fork)",
   "author": "Soft For You (forked from Tom Shanley)",
   "license": "MIT",
-  "homepage": "https://github.com/SoftForYou/d3-sankey-circular",
+  "homepage": "https://github.com/SoftForYou/sfy-sankey",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoftForYou/d3-sankey-circular.git"
+    "url": "git+https://github.com/SoftForYou/sfy-sankey.git"
   },
   "main": "dist/d3-sankey-circular.js",
   "type": "module",
@@ -42,6 +42,6 @@
     "d3"
   ],
   "bugs": {
-    "url": "https://github.com/SoftForYou/d3-sankey-circular/issues"
+    "url": "https://github.com/SoftForYou/sfy-sankey/issues"
   }
 }
